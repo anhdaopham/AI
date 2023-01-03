@@ -1,2 +1,2 @@
 # AI
-Một bài tập trong môn AI: Tìm đường đi ngắn nhất qua các chướng ngại vật sử dụng thuật toán A*
+An exercise in AI homework: Find the shortest path through obstacles using the A* algorithm
